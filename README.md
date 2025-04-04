@@ -1,21 +1,55 @@
-# Optimizing Retail Inventory with Multi-Agents
+# Optimizing Retail Inventory Using Machine Learning
+
+## Overview
+
+This project aims to develop a smart inventory optimization system for retail businesses using machine learning. The solution analyzes past sales, demand trends, and stock levels to predict future inventory needs, helping retailers reduce overstock and stockouts while increasing profitability.
 
 ## Problem Statement
-Retail businesses struggle with stockouts and overstocking, leading to financial losses.
 
-## Solution
-- AI-powered agents predict demand and optimize inventory in real-time.
-- Dynamic pricing strategies prevent overstocking and stock shortages.
+Retailers face challenges in managing their inventory effectively due to unpredictable demand, seasonal changes, and lack of data-driven insights. This often leads to:
+- Overstocking, causing waste and extra holding costs.
+- Stockouts, resulting in missed sales and unhappy customers.
 
-## Technologies Used
-- Python, TensorFlow, Flask, MySQL, AWS
+## Our Solution
 
-## How It Works
-- AI forecasts demand using machine learning models.
-- Inventory tracking ensures optimal stock levels.
-- Pricing adjustments improve revenue and customer satisfaction.
+We propose an ML-based inventory management system that:
+- Analyzes historical sales and demand trends.
+- Predicts future stock requirements for each product.
+- Recommends optimal stock levels to maintain.
+- Visualizes inventory and sales data for better decisions.
 
-## Files in This Repository
-- `README.md` - Project Overview
-- `Idea_Document.pdf` - Detailed project write-up
+## Key Features
+
+- Sales data analysis
+- Predictive inventory planning
+- Real-time dashboard
+- Reduction of stockouts and overstock
+- Easy integration with existing systems
+
+## Tech Stack
+
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Flask (for backend/API)
+- Streamlit or Power BI (for dashboard)
+
+## Impact
+
+This system empowers retailers to:
+- Make data-driven stocking decisions
+- Reduce losses due to unsold inventory
+- Ensure products are always available to customers
+- Improve overall supply chain efficiency
+
+## Team Members
+
+- Disha Ravikumar
+- B M Srinivas
+
+## Files
+
+- `README.md` – Summary of the project idea
+- `Idea_Document.pdf` – Detailed description of the project
+
 
