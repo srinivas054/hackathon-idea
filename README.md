@@ -28,11 +28,12 @@ We propose an ML-based inventory management system that:
 
 ## Tech Stack
 
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Flask (for backend/API)
-- Streamlit or Power BI (for dashboard)
+- Frontend: React.js 
+-Backend: Node.js (Express) 
+-Database: MongoDB 
+-AI/ML Models: Python (TensorFlow/PyTorch) for demand forecasting 
+-Cloud & Deployment: AWS (EC2, S3) / Firebase for hosting 
+-Other Tools: GitHub for version control, Figma for UI/UX design 
 
 ## Impact
 
